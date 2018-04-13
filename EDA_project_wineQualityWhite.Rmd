@@ -975,7 +975,7 @@ categories of customer to know which type of wine is preferred more among them.
 # Reflection
 
 
-1. I sturggled with colroing the high correlations values in the table.
+1. I struggled with colroing the high correlations values in the table.
 2. GGpairs chart was not displaying very well, so I struggled if I could get just correlation table with coloring high correlated values 
 3. It was difficult to interpret chart, exploring data and making a meaningful conclusion from any data while beginning of this course, that has changed over the course learning R and learning this project.
 4. The boxplot in bivariate analysis gave me the clear picture about how each variable interacts with quality of a wine.Especially after displaying the median values in boxplots.
